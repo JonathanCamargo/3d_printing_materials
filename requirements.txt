@@ -1,0 +1,8 @@
+pandas
+streamlit
+scikit-learn
+matplotlib
+plotly
+git+https://github.com/jonathancamargo/pyFileManager@main
+
+
